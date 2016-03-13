@@ -1,6 +1,6 @@
 utf8_2_gbk 
 -----------------
 
-## 使用方法
+## 浣跨敤鏂规硶
 
 python utf8_2_gbk.py [file]
